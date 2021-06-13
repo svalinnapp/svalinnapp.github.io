@@ -40,7 +40,7 @@ features                                  :
     
   - title                                 : Custom Themes and Alternate App Icons
     description                           : Easily change the app's color theme and set a beautiful alternate app icon.
-    fontawesome_icon_name                 : pencil-paintbrush
+    fontawesome_icon_name                 : paint-brush
 
   - title                                 : Achievements
     description                           : Unlock fun achievements as you use the app. Can you unlock them all?

@@ -38,13 +38,13 @@ features                                  :
     description                           : Svalinn makes it easy to track your daily habits and understand how they affect your carbon footprint.
     fontawesome_icon_name                 : globe-americas
     
-  - title                                 : iPhone Device Preview
-    description                           : Preview your app in the context of an iPhone device. Five different device colors included.
-    fontawesome_icon_name                 : mobile
+  - title                                 : Custom Themes and Alternate App Icons
+    description                           : Easily change the app's color theme and set a beautiful alternate app icon.
+    fontawesome_icon_name                 : pencil-paintbrush
 
-  - title                                 : Video Support
-    description                           : Preview app video on the iPhone device simply by placing your video files in the videos folder.
-    fontawesome_icon_name                 : play-circle
+  - title                                 : Achievements
+    description                           : Unlock fun achievements as you use the app. Can you unlock them all?
+    fontawesome_icon_name                 : star
 
   - title                                 : Automatic Icon and Metadata
     description                           : Enter iOS app ID in the _config.yml file to automatically fetch app icon, price and App Store Link.

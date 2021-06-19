@@ -8,7 +8,6 @@ include_in_header: false
 June 19 2021
 
 # Privacy Policy
-
 <br>
 
 ### In Short: **Svalinn does not store your data, period.**

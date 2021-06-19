@@ -56,7 +56,7 @@ features                                  :
 
   - title                                 : ... And Much More!
     description                           : These are just some of the few fantastic features of Svalinn. Why haven't you downloaded it already?
-    fontawesome_icon_name                 : bars
+    fontawesome_icon_name                 : ellipsis
 
   - title                                 : # New Feature Title
     description                           : # New Feature Description

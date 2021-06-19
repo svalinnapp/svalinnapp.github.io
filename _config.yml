@@ -39,7 +39,7 @@ features                                  :
     fontawesome_icon_name                 : globe-americas
 
   - title                                 : Custom Themes and Alternate App Icons
-    description                           : Easily change the app's color theme and set a personalized alternate app icon.
+    description                           : Easily change the app's color theme and set unique alternate app icons.
     fontawesome_icon_name                 : paint-brush
 
   - title                                 : Achievements

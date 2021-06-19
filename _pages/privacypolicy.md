@@ -16,6 +16,7 @@ June 19 2021
 
  Now time for the legal jargon.
 
+
 <br>
 
  Thank you for choosing to be part of our community at Svalinn ("we", "us", "our"). We are committed to protecting your personal information and your right to privacy. If you have any questions or concerns about this privacy policy, or our practices with regards to your personal information, please contact us at svalinndev@icloud.com.

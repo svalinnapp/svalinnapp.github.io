@@ -11,7 +11,7 @@ presskit_download_link                    :                                     
 
 app_icon                                  : assets/appicon.png                      # Automatically populates if not set and if iOS app ID is set.  Otherwise enter path to icon file manually.
 app_name                                  : Svalinn                           # Automatically populates if not set and if iOS app ID is set.  Otherwise enter manually.
-app_price                                 :                                           # Automatically populates if not set and if iOS app ID is set.  Otherwise enter manually.
+app_price                                 : by Jack Minehan                                        # Automatically populates if not set and if iOS app ID is set.  Otherwise enter manually.
 app_description                           : Svalinn is an app created to help individuals understand their impact on climate change.
 
 enable_smart_app_banner                   : false                                     # Set to true to show a smart app banner at top of page on mobile devices.
@@ -19,7 +19,7 @@ enable_smart_app_banner                   : false                               
 
 
 # Information About Yourself
-your_name                                 :  Jack Minehan
+your_name                                 :
 your_link                                 :
 your_city                                 :
 email_address                             : svalinndev@icloud.com

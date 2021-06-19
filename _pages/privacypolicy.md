@@ -16,6 +16,7 @@ June 19 2021
  **We have no servers anywhere in the world (even Antartica), so you can rest easy knowing that your data is going to stay on your device. Because we do not store your data, your data cannot be hacked, stolen, or sold from our (nonexistent) servers.**
 
  Now time for the legal jargon.
+
 <br>
 
  Thank you for choosing to be part of our community at Svalinn ("we", "us", "our"). We are committed to protecting your personal information and your right to privacy. If you have any questions or concerns about this privacy policy, or our practices with regards to your personal information, please contact us at svalinndev@icloud.com.

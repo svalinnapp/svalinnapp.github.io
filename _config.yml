@@ -54,9 +54,9 @@ features                                  :
     description                           : Svalinn is frequently updated with new features and is guided by its community. Reach out on social media!
     fontawesome_icon_name                 : wrench
 
-  - title                                 : And Much More!
+  - title                                 : ... And Much More!
     description                           : These are just some of the few fantastic features of Svalinn. Why haven't you downloaded it already?
-    fontawesome_icon_name                 : solid fa-ellipsis
+    fontawesome_icon_name                 : bars
 
   - title                                 : # New Feature Title
     description                           : # New Feature Description

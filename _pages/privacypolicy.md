@@ -40,6 +40,8 @@ This information is primarily needed to maintain the security and operation of o
 
 ## Will Your Information Be Shared With Anyone?
 
+<br>
+
 In Short: We only share information with your consent, to comply with laws, to provide you with services, to protect your rights, or to fulfill business obligations. We may process or share your data that we hold based on the following legal basis:
 
 • Consent: We may process your data if you have given us specific consent to use your personal information for a specific purpose.
@@ -55,3 +57,7 @@ In Short: We only share information with your consent, to comply with laws, to p
 • Business Transfers. We may share or transfer your information in connection with, or during negotiations of, any merger, sale of company assets, financing, or acquisition of all or a portion of our business to another company.
 
 <br>
+
+## Do We Make Updates To This Notice?
+In Short: Yes, we will update this notice as necessary to stay compliant with relevant laws.
+We may update this privacy notice from time to time. The updated version will be indicated by an updated "Revised" date and the updated version will be effective as soon as it is accessible. If we make material changes to this privacy notice, we may notify you either by prominently posting a notice of such changes or by directly sending you a notification. We encourage you to review this privacy notice frequently to be informed of how we are protecting your information.

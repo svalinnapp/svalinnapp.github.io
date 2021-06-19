@@ -9,7 +9,6 @@ June 19 2021
 
 # Privacy Policy
 <br>
-
 ### In Short: **Svalinn does not store your data, period.**
 
  **Svalinn ("we", "us", "our") has no servers anywhere in the world (even Antartica), so you can rest easy knowing that your data is going to stay on your device. Because we do not store your data, your data cannot be hacked, stolen, or sold from our (nonexistent) servers, and the only person with the ability to access your data is you.**

@@ -5,8 +5,8 @@ include_in_header: true
 ---
 
 
-### `Latest`
+### `Pre-Release`
 # **Version 0.0**
-The app isn't even out yet silly
+Coming Soon
 
 <br>

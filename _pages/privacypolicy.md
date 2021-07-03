@@ -42,6 +42,6 @@ We may update this privacy notice from time to time. The updated version will be
 
 ## How Can You Contact Us About This Notice?
 <br>
-If you have any questions or comments about this notice, you may email us at svalinndev@icloud.com.
+If you have any questions or comments about this notice, you may email us at contactsvalinn@gmail.com.
 
 <br>

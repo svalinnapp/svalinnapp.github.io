@@ -34,8 +34,8 @@ youtube_username                          :
 # Feature List                            Edit, add or remove features to be presented.
 features                                  :
 
-  - title                                 : Understand your carbon footprint
-    description                           : Svalinn makes it easy to track your daily habits and understand how they affect your carbon footprint.
+  - title                                 : Understand your Impact
+    description                           : Svalinn makes it easy to track your daily habits and understand how they impact climate change.
     fontawesome_icon_name                 : globe-americas
 
   - title                                 : Custom Themes and Alternate App Icons
@@ -55,7 +55,7 @@ features                                  :
     fontawesome_icon_name                 : wrench
 
   - title                                 : ... And Much More!
-    description                           : These are just some of the few fantastic features of Svalinn. Why haven't you downloaded it already?
+    description                           : These are just some of the few fantastic features of Svalinn with many more on the way.
     fontawesome_icon_name                 : bars
 
   - title                                 : # New Feature Title

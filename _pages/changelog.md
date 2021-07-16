@@ -5,7 +5,19 @@ include_in_header: true
 ---
 
 
-### `Latest`
+### `July 17, 2021`
+# **Version 1.0.2**
+
+This update includes minor fixes and improvements:
+
+- Added the ability to override the system appearance
+- Changed notification details
+- Search filter is no longer case-sensitive
+- Fixed an issue where accidental tasks could not be removed
+- Fixed an issue with the "suggest a feature" link not working
+
+
+### `July 14, 2021`
 # **Version 1.0.1**
 
 This update includes minor fixes and improvements:

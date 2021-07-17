@@ -4,8 +4,14 @@ title: What's New
 include_in_header: true
 ---
 
-
 ### `July 17, 2021`
+# **Version 1.0.3**
+
+This update includes bug fixes and performance improvements.
+
+<br>
+
+### `July 15, 2021`
 # **Version 1.0.2**
 
 This update includes minor fixes and improvements:
@@ -16,6 +22,7 @@ This update includes minor fixes and improvements:
 - Fixed an issue where accidental tasks could not be removed
 - Fixed an issue with the "suggest a feature" link not working
 
+<br>
 
 ### `July 14, 2021`
 # **Version 1.0.1**

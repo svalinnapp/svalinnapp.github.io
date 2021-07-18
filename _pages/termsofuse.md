@@ -5,7 +5,7 @@ include_in_header: false
 ---
 
 **Last updated**  
-July 3 2021
+July 17 2021
 
 # Terms Of Use
 <br>
@@ -58,7 +58,7 @@ The formation, interpretation, and performance of this Agreement and any dispute
 
 ## Changes and Amendments
 <br>
-We reserve the right to modify this Agreement or its terms relating to the Mobile Application and Services at any time, effective upon posting of an updated version of this Agreement in the Mobile Application. When we do, we will revise the updated date at the bottom of this page. Continued use of the Mobile Application and Services after any such changes shall constitute your consent to such changes.
+We reserve the right to modify this Agreement or its terms relating to the Mobile Application and Services at any time, effective upon posting of an updated version of this Agreement in the Mobile Application. When we do, we will revise the updated date at the top of this page. Continued use of the Mobile Application and Services after any such changes shall constitute your consent to such changes.
 
 <br>
 

@@ -4,6 +4,13 @@ title: What's New
 include_in_header: true
 ---
 
+### `July 20, 2021`
+# **Version 1.0.4**
+
+This update includes bug fixes and performance improvements.
+
+<br>
+
 ### `July 17, 2021`
 # **Version 1.0.3**
 

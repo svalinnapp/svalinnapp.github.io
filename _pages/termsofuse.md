@@ -5,7 +5,7 @@ include_in_header: false
 ---
 
 **Last updated**  
-July 17 2021
+August 5 2021
 
 # Terms Of Use
 <br>
@@ -53,6 +53,18 @@ All rights and restrictions contained in this Agreement may be exercised and sha
 ## Dispute Resolution
 <br>
 The formation, interpretation, and performance of this Agreement and any disputes arising out of it shall be governed by the substantive and procedural laws of Tennessee, United States without regard to its rules on conflicts or choice of law and, to the extent applicable, the laws of United States. The exclusive jurisdiction and venue for actions related to the subject matter hereof shall be the courts located in Tennessee, United States, and you hereby submit to the personal jurisdiction of such courts. You hereby waive any right to a jury trial in any proceeding arising out of or related to this Agreement. The United Nations Convention on Contracts for the International Sale of Goods does not apply to this Agreement.
+
+<br>
+
+## In-App Purchases
+<br>
+Optional in-app purchase "Tip Jar" is available. Your in-app purchase will be charged to your iTunes account at confirmation of purchase. All purchases may be final and non-refundable. By accepting these terms, you agree that Svalinn is not required to provide a refund for any reason. Svalinn may change, modify, or eliminate features of the in-app purchase at any time, with or without notice. You agree that Svalinn will bear no liability to you or any third party if we do so.
+
+<br>
+
+## Intellectual Property
+<br>
+The visual interfaces, graphics, design, compilation, information, computer code (including source code or object code), products, software, services, and all other elements of the Application provided by Svalinn are protected by United States copyright, trade dress, patent, and trademark laws, international conventions, and all other relevant intellectual property and proprietary rights, and applicable laws. Except for any content that are provided and owned by Users, all materials contained on the Application are the property of Svalinn or its subsidiaries or affiliated companies and/or third-party licensors. All trademarks, service marks, and trade names are proprietary to Svalinn or its affiliates and/or third-party licensors. Except as expressly authorized, you agree not to sell, license, distribute, copy, modify, publicly perform or display, transmit, publish, edit, adapt, create derivative works from, or otherwise make unauthorized use of the materials. We reserve all rights not expressly granted in the Terms.
 
 <br>
 

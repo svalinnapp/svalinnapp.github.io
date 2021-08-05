@@ -5,13 +5,10 @@ include_in_header: false
 ---
 
 **Last updated**  
-July 3 2021
+August 5 2021
 
 # Privacy Policy
 <br>
-### In Short: **Svalinn does not store your data, period.**
-
- **Svalinn ("we", "us", "our") has no servers anywhere in the world (even Antartica), so you can rest easy knowing that your data is going to stay on your device. Because we do not store your data, your data cannot be hacked, stolen, or sold from our (nonexistent) servers, and the only person with the ability to access your data is you.**
 
  We truly can't thank you enough for choosing to be a part of our community. We are committed to protecting your personal information and your right to privacy, for we believe privacy is a fundamental human right. If you have any questions or concerns about this privacy policy, or our practices with regards to your personal information, please contact us at svalinndev@icloud.com.
 
@@ -27,8 +24,10 @@ Information collected through our App In Short: We collect information regarding
 
 • Mobile Device Access. We may request access or permission to certain features from your mobile device, including your mobile device's storage, social media accounts, notifications, and other features. If you wish to change our access or permissions, you may do so in your device's settings.
 
-• Push Notifications. We may request to send you push notifications regarding your account or certain features of the App. If you wish to opt-out from receiving these types of communications, you may turn them off in your device's settings.
+• Push Notifications. We may request to send you push notifications regarding certain features of the App. If you wish to opt-out from receiving these types of communications, you may turn them off in your device's settings.
 This information is primarily needed to maintain the security and operation of our App, for troubleshooting and for our internal analytics and reporting purposes.
+
+• Purchase History. We may request access to your purchase history for certain features of the App. The App offers optional in-app purchases. In order to grant access to the in-app purchase content, we require access to your purchase history. The App uses RevenueCat to manage in-app purchases. RevenueCat's privacy policy can be found at https://www.revenuecat.com/privacy.
 
 <br>
 
@@ -37,6 +36,14 @@ This information is primarily needed to maintain the security and operation of o
 In Short: Yes, we will update this notice as necessary to stay compliant with relevant laws.
 
 We may update this privacy notice from time to time. The updated version will be indicated by an updated "Revised" date and the updated version will be effective as soon as it is accessible. If we make material changes to this privacy notice, we may notify you either by prominently posting a notice of such changes or by directly sending you a notification. We encourage you to review this privacy notice frequently to be informed of how we are protecting your information.
+
+<br>
+
+## EU Users Notice
+<br>
+Notice to European Users: this privacy statement has been prepared in fulfillment of the obligations under Art. 10 of EC Directive n. 95/46/EC, and under the provisions of Directive 2002/58/EC, as revised by Directive 2009/136/EC, on the subject of Cookies.
+Your Personal Information may be stored and processed in any country where we have facilities or in which we engage third party service providers. By using the Services, you consent to the transfer of information to countries outside your country of residence, which may have different data protection rules than in your country. While such information is outside of US, it is subject to the laws of the country in which it is held, and may be subject to disclosure to the governments, courts or law enforcement or regulatory agencies of such other country, pursuant to the laws of such country. However, our practices regarding your Personal Information will at all times continue to be governed by this Privacy Policy and, if applicable, we will comply with the General Data Protection Regulation (“GDPR”) requirements providing adequate protection for the transfer of Personal Information from the EU/EEA to third country.
+This privacy policy relates solely to this Application.
 
 <br>
 

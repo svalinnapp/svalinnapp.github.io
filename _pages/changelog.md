@@ -3,6 +3,22 @@ layout: page
 title: What's New
 include_in_header: true
 ---
+### `August 6, 2021`
+# **Version 1.1.0**
+
+This update to Svalinn includes many exciting new features:
+
+- Habits can now be selected as favorites and can be accessed under the new favorites tab
+- Confetti now flies down the screen when reaching 100% of your daily goal
+- A new medium-sized home screen widget has been added
+- Widgets now are colored with the selected theme and have a new rounded font
+- There is now an option to support development through an in-app purchase tip jar. By making at least one tip, you unlock all new themes and alternate app icons. Any support is truly appreciated!
+
+In addition to these new features, this update includes many bug fixes.
+
+Thanks for using Svalinn!
+
+<br>
 
 ### `July 23, 2021`
 # **Version 1.0.5**

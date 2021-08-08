@@ -3,7 +3,7 @@ layout: page
 title: What's New
 include_in_header: true
 ---
-### `August 6, 2021`
+### `August 9, 2021`
 # **Version 1.1.0**
 
 This update to Svalinn includes many exciting new features:

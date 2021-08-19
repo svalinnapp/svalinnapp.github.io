@@ -3,6 +3,13 @@ layout: page
 title: What's New
 include_in_header: true
 ---
+### `August 18, 2021`
+# **Version 1.1.1**
+
+This update includes various bug fixes.
+
+<br>
+
 ### `August 9, 2021`
 # **Version 1.1.0**
 
@@ -15,8 +22,6 @@ This update to Svalinn includes many exciting new features:
 - There is now an option to support development through an in-app purchase tip jar. By making at least one tip, you unlock all new themes and alternate app icons. Any support is truly appreciated!
 
 In addition to these new features, this update includes many bug fixes.
-
-Thanks for using Svalinn!
 
 <br>
 
